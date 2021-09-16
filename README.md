@@ -9,9 +9,9 @@ Full-field displacement and net reaction force data that are obtained from a sin
 
 ## Hyperelasticity
 EUCLID was successfully demonstrated to be able to discover strain energy density functions of hyperelastic materials (see Ref. 1.).
-The codes and data are publically available on <a href="https://github.com/EUCLID-code/hyperelasticity" target="_blank">GitHub</a>
-and the <a href="https://www.research-collection.ethz.ch/handle/20.500.11850/481215" target="_blank">ETH Research Collection</a>, respectively.
-The corresponding documentation can be found <a href="https://EUCLID-code.github.io/hyperelasticity/mkdocs/site" target="_blank">here</a>.
+The codes and data are publically available on <a href="https://github.com/EUCLID-code/EUCLID-hyperelasticity" target="_blank">GitHub</a>
+and the <a href="https://www.research-collection.ethz.ch/handle/20.500.11850/505693" target="_blank">ETH Research Collection</a>, respectively.
+The corresponding documentation can be found <a href="https://EUCLID-code.github.io/EUCLID-hyperelasticity/mkdocs/site" target="_blank">here</a>.
 
 ## Elasto-Plasticity
 coming soon ..
