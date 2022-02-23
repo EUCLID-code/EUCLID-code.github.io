@@ -24,6 +24,6 @@ coming soon ..
 	__Unsupervised discovery of interpretable hyperelastic constitutive laws__  
 	_Computer Methods in Applied Mechanics and Engineering, 381, p.113852_ ([open access](https://www.sciencedirect.com/science/article/pii/S0045782521001894))
 
-2.	Moritz Flaschel, Siddhant Kumar and Laura De Lorenzis
-	__Discovering plasticity models without stress data__
+2.	Moritz Flaschel, Siddhant Kumar and Laura De Lorenzis  
+	__Discovering plasticity models without stress data__  
 	([open access](https://arxiv.org/pdf/2202.04916.pdf))
