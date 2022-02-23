@@ -14,6 +14,8 @@ and the <a href="https://www.research-collection.ethz.ch/handle/20.500.11850/505
 The corresponding documentation can be found <a href="https://EUCLID-code.github.io/EUCLID-hyperelasticity/mkdocs/site" target="_blank">here</a>.
 
 ## Elasto-Plasticity
+In Ref. 2., EUCLID was for the first time applied to discover path-dependent material behavior, i.e., elasto-plastic material models.
+
 coming soon ..
 
 # References
@@ -22,5 +24,6 @@ coming soon ..
 	__Unsupervised discovery of interpretable hyperelastic constitutive laws__  
 	_Computer Methods in Applied Mechanics and Engineering, 381, p.113852_ ([open access](https://www.sciencedirect.com/science/article/pii/S0045782521001894))
 
-2.	Moritz Flaschel, Siddhant Kumar and Laura De Lorenzis 
-	(coming soon ..)
+2.	Moritz Flaschel, Siddhant Kumar and Laura De Lorenzis
+	__Discovering plasticity models without stress data__
+	([open access](https://arxiv.org/pdf/2202.04916.pdf))
