@@ -15,8 +15,14 @@ The corresponding documentation can be found <a href="https://EUCLID-code.github
 
 ## Elasto-Plasticity
 In Ref. 2., EUCLID was for the first time applied to discover path-dependent material behavior, i.e., elasto-plastic material models.
+In this application of EUCLID, the full-field displacement and global reaction force data are used to discover plastic yield surfaces and hardening laws as closed-form mathematical formulas (see Animation 1).
+The codes and data are publically available on <a href="https://github.com/EUCLID-code/EUCLID-plasticity" target="_blank">GitHub</a>
+and the <a href="https://www.research-collection.ethz.ch/handle/20.500.11850/534002" target="_blank">ETH Research Collection</a>, respectively.
+The corresponding documentation can be found <a href="https://EUCLID-code.github.io/EUCLID-plasticity/mkdocs/site" target="_blank">here</a>.
 
-coming soon ..
+<img src="/img/yield_surface_evolution.gif" alt="Yield Surface Evolution" width="400"/>
+
+<sub>Animation 1: Comparison between the true and discovered yield surface evolution along a given deformation path.</sub>
 
 # References
 
