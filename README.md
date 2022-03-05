@@ -47,7 +47,7 @@ The documentation of the elasto-plasticity code and an example can be found <a h
 
 5.	Moritz Flaschel, Siddhant Kumar and Laura De Lorenzis  
 	__Supplementary software for "Discovering plasticity models without stress data"__  
-	_ETH Library_
+	_ETH Library_  
 	DOI: [http://doi.org/10.5905/ethz-1007-509](http://doi.org/10.5905/ethz-1007-509)  
 	GitHub: [https://github.com/EUCLID-code/EUCLID-plasticity](https://github.com/EUCLID-code/EUCLID-plasticity)
 
