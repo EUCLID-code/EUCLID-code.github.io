@@ -30,15 +30,15 @@ The documentation of the elasto-plasticity code and an example can be found <a h
 	__Unsupervised discovery of interpretable hyperelastic constitutive laws__  
 	_Computer Methods in Applied Mechanics and Engineering, 381, p.113852_ ([open access](https://www.sciencedirect.com/science/article/pii/S0045782521001894))
 
-2.	Moritz Flaschel<span>&#42;</span>, Siddhant Kumar<span>&#42;</span> and Laura De Lorenzis (<span>&#42;</span>contributed equally)
-	__Supplementary software for "Unsupervised discovery of interpretable hyperelastic constitutive laws"__
-	_ETH Library_
-	DOI: [http://doi.org/10.5905/ethz-1007-508](http://doi.org/10.5905/ethz-1007-508)
+2.	Moritz Flaschel<span>&#42;</span>, Siddhant Kumar<span>&#42;</span> and Laura De Lorenzis (<span>&#42;</span>contributed equally)  
+	__Supplementary software for "Unsupervised discovery of interpretable hyperelastic constitutive laws"__  
+	_ETH Library_  
+	DOI: [http://doi.org/10.5905/ethz-1007-508](http://doi.org/10.5905/ethz-1007-508)  
 	GitHub: [https://github.com/EUCLID-code/EUCLID-hyperelasticity](https://github.com/EUCLID-code/EUCLID-hyperelasticity)
 
-3.	Moritz Flaschel<span>&#42;</span>, Siddhant Kumar<span>&#42;</span> and Laura De Lorenzis (<span>&#42;</span>contributed equally)
-	__FEM Data – Unsupervised discovery of interpretable hyperelastic constitutive laws__
-	_ETH Research Collection_
+3.	Moritz Flaschel<span>&#42;</span>, Siddhant Kumar<span>&#42;</span> and Laura De Lorenzis (<span>&#42;</span>contributed equally)  
+	__FEM Data – Unsupervised discovery of interpretable hyperelastic constitutive laws__  
+	_ETH Research Collection_  
 	DOI: [https://doi.org/10.3929/ethz-b-000505693](https://doi.org/10.3929/ethz-b-000505693)
 
 4.	Moritz Flaschel, Siddhant Kumar and Laura De Lorenzis  
@@ -46,12 +46,12 @@ The documentation of the elasto-plasticity code and an example can be found <a h
 	([open access](https://arxiv.org/pdf/2202.04916.pdf))
 
 5.	Moritz Flaschel, Siddhant Kumar and Laura De Lorenzis  
-	__Supplementary software for "Discovering plasticity models without stress data"__
+	__Supplementary software for "Discovering plasticity models without stress data"__  
 	_ETH Library_
-	DOI: [http://doi.org/10.5905/ethz-1007-509](http://doi.org/10.5905/ethz-1007-509)
+	DOI: [http://doi.org/10.5905/ethz-1007-509](http://doi.org/10.5905/ethz-1007-509)  
 	GitHub: [https://github.com/EUCLID-code/EUCLID-plasticity](https://github.com/EUCLID-code/EUCLID-plasticity)
 
 6.	Moritz Flaschel, Siddhant Kumar and Laura De Lorenzis  
-	__FEM Data - Discovering plasticity models without stress data__
-	_ETH Research Collection_
+	__FEM Data - Discovering plasticity models without stress data__  
+	_ETH Research Collection_  
 	DOI: [https://doi.org/10.3929/ethz-b-000534002](https://doi.org/10.3929/ethz-b-000534002)
