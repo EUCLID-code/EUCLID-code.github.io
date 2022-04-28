@@ -42,8 +42,8 @@ The documentation of the elasto-plasticity code and an example can be found <a h
 	DOI: [https://doi.org/10.3929/ethz-b-000505693](https://doi.org/10.3929/ethz-b-000505693)
 
 4.	Moritz Flaschel, Siddhant Kumar and Laura De Lorenzis  
-	__Discovering plasticity models without stress data__  
-	([open access](https://arxiv.org/pdf/2202.04916.pdf))
+	__Discovering plasticity models without stress data__ 
+	_npj Computational Materials, 8, 91 (2022)_ ([open access](https://rdcu.be/cMjUx))
 
 5.	Moritz Flaschel, Siddhant Kumar and Laura De Lorenzis  
 	__Supplementary software for "Discovering plasticity models without stress data"__  
@@ -55,3 +55,7 @@ The documentation of the elasto-plasticity code and an example can be found <a h
 	__FEM Data - Discovering plasticity models without stress data__  
 	_ETH Research Collection_  
 	DOI: [https://doi.org/10.3929/ethz-b-000534002](https://doi.org/10.3929/ethz-b-000534002)
+
+7.  Akshay Joshi, Prakash Thakolkaran, Yiwen Zheng, Maxime Escande, Moritz Flaschel, Laura De Lorenzis, Siddhant Kumar
+	__Bayesian-EUCLID: discovering hyperelastic material laws with uncertainties__
+	([open access](https://arxiv.org/abs/2203.07422))
