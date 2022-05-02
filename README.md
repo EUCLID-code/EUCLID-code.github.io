@@ -56,6 +56,6 @@ The documentation of the elasto-plasticity code and an example can be found <a h
 	_ETH Research Collection_  
 	DOI: [https://doi.org/10.3929/ethz-b-000534002](https://doi.org/10.3929/ethz-b-000534002)
 
-7.  Akshay Joshi, Prakash Thakolkaran, Yiwen Zheng, Maxime Escande, Moritz Flaschel, Laura De Lorenzis, Siddhant Kumar
-	__Bayesian-EUCLID: discovering hyperelastic material laws with uncertainties__
+7.  Akshay Joshi, Prakash Thakolkaran, Yiwen Zheng, Maxime Escande, Moritz Flaschel, Laura De Lorenzis, Siddhant Kumar  
+	__Bayesian-EUCLID: discovering hyperelastic material laws with uncertainties__  
 	([open access](https://arxiv.org/abs/2203.07422))
