@@ -13,6 +13,14 @@ The codes and data are publically available on <a href="https://github.com/EUCLI
 and the <a href="https://www.research-collection.ethz.ch/handle/20.500.11850/505693" target="_blank">ETH Research Collection</a> (see Ref. 3.), respectively.
 The documentation of the hyperelasticity code and an example can be found <a href="https://EUCLID-code.github.io/EUCLID-hyperelasticity/mkdocs/site" target="_blank">here</a>.
 
+### Bayesian Inference
+In Ref. 7., the problem of material model discovery was considered from a Bayesian perspective.
+Through Markov Chain Monte Carlo sampling, the Bayesian-EUCLID deduces a posterior probability distribution for the unknown material parameters,
+which is a joined distribution of the model likelihood and a sparsity promoting spike-and-slab prior.
+In this way, parsimonious and interpretable material models can be discovered with quantifiable uncertainties. 
+The codes and data are publically available on <a href="https://github.com/EUCLID-code/EUCLID-hyperelasticity-bayesian" target="_blank">GitHub</a>.
+The documentation of the Bayesian-EUCLID code and an example can be found <a href="https://EUCLID-code.github.io/EUCLID-hyperelasticity-bayesian/mkdocs/site" target="_blank">here</a>.
+
 ## Elasto-Plasticity
 In Ref. 4., EUCLID was for the first time applied to discover path-dependent material behavior, i.e., elasto-plastic material models.
 In this application of EUCLID, the full-field displacement and global reaction force data are used to discover plastic yield surfaces and hardening laws as closed-form mathematical formulas (see Animation 1).
