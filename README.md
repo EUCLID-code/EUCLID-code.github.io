@@ -66,7 +66,8 @@ The documentation of the elasto-plasticity code and an example can be found <a h
 
 7.  Akshay Joshi, Prakash Thakolkaran, Yiwen Zheng, Maxime Escande, Moritz Flaschel, Laura De Lorenzis, Siddhant Kumar  
 	__Bayesian-EUCLID: discovering hyperelastic material laws with uncertainties__  
-	([open access](https://arxiv.org/abs/2203.07422))
+	([open access](https://arxiv.org/abs/2203.07422))  
+	GitHub: [https://github.com/EUCLID-code/EUCLID-hyperelasticity-bayesian](https://github.com/EUCLID-code/EUCLID-hyperelasticity-bayesian)
 
 8.  Prakash Thakolkaran, Akshay Joshi, Yiwen Zheng, Moritz Flaschel, Laura De Lorenzis, Siddhant Kumar  
 	__NN-EUCLID: deep-learning hyperelasticity without stress data__  
