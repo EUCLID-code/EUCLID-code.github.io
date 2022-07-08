@@ -1,11 +1,13 @@
 # Introduction
-EUCLID (Efficient Unsupervised Constitutive Law Identification & Discovery) utilizes displacement and reaction force data,
-but no stress data as these are not available from experiments, to discover material models without assuming a specific functional form for the model apriori.
+EUCLID (Efficient Unsupervised Constitutive Law Identification & Discovery) utilizes local displacement and global reaction force data,
+but no local stress data as these are not available from experiments, to discover material models without assuming a specific functional form for the model apriori.
 To this end, a large catalog of candidate material models is constructed out of which dominant candidates are selected through sparse regression
 or the material behavior is described by a general machine learning based ansatz, e.g., a neural network.
 To compensate the unavailability of stress data, physics knowledge is employed by minimizing the sum of squared residuals of the weak linear momentum balance.
 
 ![Schematic of EUCLID](./img/schematics.png)
+
+<sub>Figure 1: EUCLID workflow.</sub>
 
 The figure above shows the workflow of the sparse regression based EUCLID algorithm.
 Full-field displacement and net reaction force data that are obtained from a single experiment (a) serve as input data for EUCLID.
