@@ -1,9 +1,20 @@
 # Introduction
-EUCLID (Efficient Unsupervised Constitutive Law Identification & Discovery) utilizes displacement and reaction force data, but no stress data as these are not available from experiments, to discover material laws as compact and interpretable mathematical formulas. A large catalog of candidate material models is constructed out of which dominant candidates are selected through sparse regression. To compensate the unavailability of stress data, physics knowledge is employed by minimizing the sum of squared residuals of the weak linear momentum balance.
+EUCLID (Efficient Unsupervised Constitutive Law Identification & Discovery) utilizes displacement and reaction force data,
+but no stress data as these are not available from experiments, to discover material models without assuming a specific functional form for the model apriori.
+To this end, a large catalog of candidate material models is constructed out of which dominant candidates are selected through sparse regression
+or the material behavior is described by a general machine learning based ansatz, e.g., a neural network.
+To compensate the unavailability of stress data, physics knowledge is employed by minimizing the sum of squared residuals of the weak linear momentum balance.
 
 ![Schematic of EUCLID](./img/schematics.png)
 
-Full-field displacement and net reaction force data that are obtained from a single experiment (a) serve as input data for EUCLID. The displacement data (b) is interpolated (c) to obtain the displacement field (d) and after differentiation the strain field (e). A general material model library is constructed, which can describe a variety of different material responses dependent on the choice of material parameters `theta`. Based on the model library, the stresses (f) and hence the residuals of the weak linear momentum balance (g,h) can be expressed dependent on the unknown parameters `theta`. The linear momentum balance serves as a physical constraint on the material parameter space. Minimizing the  sum of squared residuals together with a sparsity promoting regularization term (i) yields a sparse parameter vector `theta` and hence an interpretable constitutive law expressed by a compact mathematical formula (j).
+The figure above shows the workflow of the sparse regression based EUCLID algorithm.
+Full-field displacement and net reaction force data that are obtained from a single experiment (a) serve as input data for EUCLID.
+The displacement data (b) is interpolated (c) to obtain the displacement field (d) and after differentiation the strain field (e).
+A general material model library is constructed, which can describe a variety of different material responses dependent on the choice of material parameters `theta`.
+Based on the model library, the stresses (f) and hence the residuals of the weak linear momentum balance (g,h) can be expressed dependent on the unknown parameters `theta`.
+The linear momentum balance serves as a physical constraint on the material parameter space.
+Minimizing the sum of squared residuals together with a sparsity promoting regularization term (i) yields a sparse parameter vector `theta`
+and hence an interpretable constitutive law expressed by a compact mathematical formula (j).
 
 # Applications
 
