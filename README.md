@@ -34,6 +34,14 @@ In this way, parsimonious and interpretable material models can be discovered wi
 The codes and data are publically available on <a href="https://github.com/EUCLID-code/EUCLID-hyperelasticity-bayesian" target="_blank">GitHub</a>.
 The documentation of the Bayesian-EUCLID code and an example can be found <a href="https://EUCLID-code.github.io/EUCLID-hyperelasticity-bayesian/mkdocs/site" target="_blank">here</a>.
 
+### Neural networks
+
+In Ref. 8, we demonstrate the use of neural networks for learning the hidden material models from full-field displacement and global reaction force data. By using an Input Convex Neural Network (ICNN) and a physics guided training protocol, we ensure that the learned strain-stress relation fulfills multiple physical constraints. 
+Moreover, we present the capability of our ICNN-based material model to learn the hidden fiber angle arrangments of anisotropic hyperelastic materials.
+The codes and data are publically available on <a href="https://github.com/EUCLID-code/EUCLID-hyperelasticity-NN" target="_blank">GitHub</a> (see Ref. 8.).
+The documentation of the NN-EUCLID code and an example can be found <a href="https://EUCLID-code.github.io/EUCLID-hyperelasticity-NN/mkdocs/site" target="_blank">here</a>.
+
+
 ## Elasto-Plasticity
 In Ref. 4., EUCLID was for the first time applied to discover path-dependent material behavior, i.e., elasto-plastic material models.
 In this application of EUCLID, the full-field displacement and global reaction force data are used to discover plastic yield surfaces and hardening laws as closed-form mathematical formulas (see Animation 1).
@@ -84,4 +92,5 @@ The documentation of the elasto-plasticity code and an example can be found <a h
 
 8.  Prakash Thakolkaran, Akshay Joshi, Yiwen Zheng, Moritz Flaschel, Laura De Lorenzis, Siddhant Kumar  
 	__NN-EUCLID: deep-learning hyperelasticity without stress data__  
-	([open access](https://arxiv.org/abs/2205.06664))
+	_Journal of the Mechanics and Physiscs of Solids, 169, p.105076_ ([open access](https://doi.org/10.1016/j.jmps.2022.105076))  
+	GitHub: [https://github.com/EUCLID-code/EUCLID-hyperelasticity-NN](https://github.com/EUCLID-code/EUCLID-hyperelasticity-NN)
