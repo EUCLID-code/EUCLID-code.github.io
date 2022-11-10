@@ -101,6 +101,6 @@ and EUCLID can automatically discover the true hidden material model from a larg
 	_Journal of the Mechanics and Physiscs of Solids, 169, p.105076_ ([open access](https://doi.org/10.1016/j.jmps.2022.105076))  
 	GitHub: [https://github.com/EUCLID-code/EUCLID-hyperelasticity-NN](https://github.com/EUCLID-code/EUCLID-hyperelasticity-NN)
 
-9.  Moritz Flaschel, Siddhant Kumar, Laura De Lorenzis
+9.  Moritz Flaschel, Siddhant Kumar, Laura De Lorenzis  
 	__Automated discovery of generalized standard material models with EUCLID__  
 	([open access](https://ssrn.com/abstract=4265512))  
