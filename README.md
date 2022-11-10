@@ -1,6 +1,6 @@
 # Introduction
 EUCLID (Efficient Unsupervised Constitutive Law Identification & Discovery) utilizes local displacement and global reaction force data,
-but no local stress data as these are not available from experiments, to discover material models without assuming a specific functional form for the model apriori.
+but no local stress data as these are not available from experiments, to discover material models without assuming a specific functional form for the model a priori.
 To this end, a large catalog of candidate material models is constructed out of which dominant candidates are selected through sparse regression
 or the material behavior is described by a general machine learning based ansatz, e.g., a neural network.
 To compensate the unavailability of stress data, physics knowledge is employed by minimizing the sum of squared residuals of the weak linear momentum balance.
@@ -53,6 +53,12 @@ The documentation of the elasto-plasticity code and an example can be found <a h
 
 <sub>Animation 1: Comparison between the true and discovered yield surface evolution along a given deformation path.</sub>
 
+## Generalized Standard Materials
+In Ref. 9., the EUCLID framework is extended to generalized standard materials.
+In this way, no a priori choice of a material class (such as hyperelasticity or elasto-plasticity) has to be made
+and EUCLID can automatically discover the true hidden material model from a large catalog of constitutive classes, including elasticity, viscoelasticity, elastoplasticity, viscoplasticity, isotropic and kinematic hardening. 
+
+
 # References
 
 1.	Moritz Flaschel<span>&#42;</span>, Siddhant Kumar<span>&#42;</span> and Laura De Lorenzis (<span>&#42;</span>contributed equally)  
@@ -94,3 +100,7 @@ The documentation of the elasto-plasticity code and an example can be found <a h
 	__NN-EUCLID: deep-learning hyperelasticity without stress data__  
 	_Journal of the Mechanics and Physiscs of Solids, 169, p.105076_ ([open access](https://doi.org/10.1016/j.jmps.2022.105076))  
 	GitHub: [https://github.com/EUCLID-code/EUCLID-hyperelasticity-NN](https://github.com/EUCLID-code/EUCLID-hyperelasticity-NN)
+
+9.  Moritz Flaschel, Siddhant Kumar, Laura De Lorenzis
+	__Automated discovery of generalized standard material models with EUCLID__  
+	([open access](https://ssrn.com/abstract=4265512))  
