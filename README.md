@@ -36,11 +36,15 @@ The documentation of the Bayesian-EUCLID code and an example can be found <a hre
 
 ### Neural networks
 
-In Ref. 8, we demonstrate the use of neural networks for learning the hidden material models from full-field displacement and global reaction force data. By using an Input Convex Neural Network (ICNN) and a physics guided training protocol, we ensure that the learned strain-stress relation fulfills multiple physical constraints. 
+<img src="../img/neural_network.png" alt="Neural network" width="500"/>
+
+<sub>Figure 2: Neural network.</sub>
+
+In Ref. 8, we demonstrate the use of neural networks for learning the hidden material models from full-field displacement and global reaction force data.
+By using an Input Convex Neural Network (ICNN) and a physics guided training protocol, we ensure that the learned strain-stress relation fulfills multiple physical constraints. 
 Moreover, we present the capability of our ICNN-based material model to learn the hidden fiber angle arrangments of anisotropic hyperelastic materials.
 The codes and data are publically available on <a href="https://github.com/EUCLID-code/EUCLID-hyperelasticity-NN" target="_blank">GitHub</a> (see Ref. 8.).
 The documentation of the NN-EUCLID code and an example can be found <a href="https://EUCLID-code.github.io/EUCLID-hyperelasticity-NN/mkdocs/site" target="_blank">here</a>.
-
 
 ## Elasto-Plasticity
 In Ref. 4., EUCLID was for the first time applied to discover path-dependent material behavior, i.e., elasto-plastic material models.
@@ -57,7 +61,9 @@ The documentation of the elasto-plasticity code and an example can be found <a h
 In Ref. 9., the EUCLID framework is extended to generalized standard materials.
 In this way, no a priori choice of a material class (such as hyperelasticity or elasto-plasticity) has to be made
 and EUCLID can automatically discover the true hidden material model from a large catalog of constitutive classes, including elasticity, viscoelasticity, elastoplasticity, viscoplasticity, isotropic and kinematic hardening. 
-
+<a href="https://github.com/EUCLID-code/EUCLID-plasticity" target="_blank">Codes</a> (Ref. 5.),
+data (coming soon), and a
+<a href="https://EUCLID-code.github.io/EUCLID-plasticity/mkdocs/site" target="_blank">documentation</a> are publically available.
 
 # References
 
