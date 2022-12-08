@@ -36,7 +36,7 @@ The documentation of the Bayesian-EUCLID code and an example can be found <a hre
 
 ### Neural networks
 
-![Neural network](./img/neural_network.png)
+<img src="/img/neural_network.png" alt="Neural network" width="500"/>
 
 <sub>Figure 2: Neural network.</sub>
 
