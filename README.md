@@ -61,8 +61,8 @@ The documentation of the elasto-plasticity code and an example can be found <a h
 In Ref. 9., the EUCLID framework is extended to generalized standard materials.
 In this way, no a priori choice of a material class (such as hyperelasticity or elasto-plasticity) has to be made
 and EUCLID can automatically discover the true hidden material model from a large catalog of constitutive classes, including elasticity, viscoelasticity, elastoplasticity, viscoplasticity, isotropic and kinematic hardening. 
-<a href="https://github.com/EUCLID-code/EUCLID-plasticity" target="_blank">Codes</a> (Ref. 5.),
-data (coming soon), and a
+<a href="https://github.com/EUCLID-code/EUCLID-plasticity" target="_blank">Codes</a> (see Ref. 5.),
+<a href="https://www.research-collection.ethz.ch/handle/20.500.11850/586072" target="_blank">data</a> (see Ref. 10.), and a
 <a href="https://EUCLID-code.github.io/EUCLID-plasticity/mkdocs/site" target="_blank">documentation</a> are publically available.
 
 # References
@@ -110,3 +110,8 @@ data (coming soon), and a
 9.  Moritz Flaschel, Siddhant Kumar, Laura De Lorenzis  
 	__Automated discovery of generalized standard material models with EUCLID__  
 	([open access](https://ssrn.com/abstract=4265512))  
+
+10.	Moritz Flaschel, Siddhant Kumar and Laura De Lorenzis  
+	__FEM Data - Automated discovery of generalized standard material models with EUCLID__  
+	_ETH Research Collection_  
+	DOI: [https://doi.org/10.3929/ethz-b-000586072](https://doi.org/10.3929/ethz-b-000586072)
