@@ -108,7 +108,7 @@ and EUCLID can automatically discover the true hidden material model from a larg
 
 8.  Prakash Thakolkaran, Akshay Joshi, Yiwen Zheng, Moritz Flaschel, Laura De Lorenzis, Siddhant Kumar  
 	__NN-EUCLID: deep-learning hyperelasticity without stress data__  
-	_Journal of the Mechanics and Physiscs of Solids, 169, p.105076_ ([open access](https://doi.org/10.1016/j.jmps.2022.105076))  
+	_Journal of the Mechanics and Physics of Solids, 169, p.105076_ ([open access](https://doi.org/10.1016/j.jmps.2022.105076))  
 	GitHub: [https://github.com/EUCLID-code/EUCLID-hyperelasticity-NN](https://github.com/EUCLID-code/EUCLID-hyperelasticity-NN)  
 
 9.  Moritz Flaschel, Siddhant Kumar, Laura De Lorenzis  
