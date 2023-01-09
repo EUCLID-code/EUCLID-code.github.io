@@ -113,7 +113,7 @@ and EUCLID can automatically discover the true hidden material model from a larg
 
 9.  Moritz Flaschel, Siddhant Kumar, Laura De Lorenzis  
 	__Automated discovery of generalized standard material models with EUCLID__  
-	([open access](https://ssrn.com/abstract=4265512))  
+	_Computer Methods in Applied Mechanics and Engineering, 405, p.115867_ ([open access](https://www.sciencedirect.com/science/article/pii/S0045782522008234))  
 
 10.	Moritz Flaschel, Siddhant Kumar and Laura De Lorenzis  
 	__FEM Data - Automated discovery of generalized standard material models with EUCLID__  
