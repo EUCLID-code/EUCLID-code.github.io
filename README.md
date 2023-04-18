@@ -126,4 +126,4 @@ and EUCLID can automatically discover the true hidden material model from a larg
 	
 11. Moritz Flaschel  
 	__Automated Discovery of Material Models in Continuum Solid Mechanics__  
-	([open access](https://doi.org/10.3929/ethz-b-000602750))  
+	Ph.D. thesis ([open access](https://doi.org/10.3929/ethz-b-000602750))  
