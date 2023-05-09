@@ -123,7 +123,8 @@ and EUCLID can automatically discover the true hidden material model from a larg
 11. Enzo Marino, Moritz Flaschel, Siddhant Kumar and Laura De Lorenzis  
 	__Automated identification of linear viscoelastic constitutive laws with EUCLID__  
 	[_Mechanics of Materials, 181, p.104643_](https://www.sciencedirect.com/science/article/abs/pii/S0167663623000893) ([open access preprint](http://arxiv.org/abs/2212.10969))  
-	
-11. Moritz Flaschel  
+	GitHub: [https://github.com/EUCLID-code/EUCLID-viscoelasticity](https://github.com/EUCLID-code/EUCLID-viscoelasticity)  
+
+12. Moritz Flaschel  
 	__Automated Discovery of Material Models in Continuum Solid Mechanics__  
 	Ph.D. thesis ([open access](https://doi.org/10.3929/ethz-b-000602750))  
