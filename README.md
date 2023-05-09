@@ -49,6 +49,7 @@ The documentation of the NN-EUCLID code and an example can be found <a href="htt
 ## Viscoelasticity
 In Ref. 11, EUCLID is used to identify the material model of a viscoelastic material from full-field displacement and reaction force data in the frequency domain.
 Starting from a large library of viscoelastic Maxwell elements, EUCLID automatically selects the most relevant elements using sparse regression and k-means clustering.
+The codes are publically available on <a href="https://github.com/EUCLID-code/EUCLID-viscoelasticity" target="_blank">GitHub</a>.
 
 ## Elasto-Plasticity
 In Ref. 4., EUCLID was for the first time applied to discover elasto-plastic material models.
