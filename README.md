@@ -26,6 +26,12 @@ The codes and data are publically available on <a href="https://github.com/EUCLI
 and the <a href="https://www.research-collection.ethz.ch/handle/20.500.11850/505693" target="_blank">ETH Research Collection</a> (see Ref. 3.), respectively.
 The documentation of the hyperelasticity code and an example can be found <a href="https://EUCLID-code.github.io/EUCLID-hyperelasticity/mkdocs/site" target="_blank">here</a>.
 
+### Experimental Validation
+An experimental validation of EUCLID for the automated discovery of strain energy density functions of human brain tissue is presented in Ref. 13.
+As the shiny surface of human brain tissue is not suited for full-field displacement measurements, a supervised version of EUCLID is proposed (in contrast to the original unsupervised concept of EUCLID), which is informed by labelled stress-strain and torque-twist data pairs.
+Codes are publically available in the <a href="https://doi.org/10.5905/ethz-1007-638" target="_blank">ETH Library</a> (see Ref. 14.).
+
+
 ### Bayesian Inference
 In Ref. 7., the problem of material model discovery was considered from a Bayesian perspective.
 Through Markov Chain Monte Carlo sampling, the Bayesian-EUCLID deduces a posterior probability distribution for the unknown material parameters,
@@ -35,7 +41,6 @@ The codes and data are publically available on <a href="https://github.com/EUCLI
 The documentation of the Bayesian-EUCLID code and an example can be found <a href="https://EUCLID-code.github.io/EUCLID-hyperelasticity-bayesian/mkdocs/site" target="_blank">here</a>.
 
 ### Neural networks
-
 In Ref. 8, we demonstrate the use of neural networks for learning the hidden material models from full-field displacement and global reaction force data.
 By using an Input Convex Neural Network (ICNN) and a physics guided training protocol, we ensure that the learned strain-stress relation fulfills multiple physical constraints. 
 Moreover, we present the capability of our ICNN-based material model to learn the hidden fiber angle arrangments of anisotropic hyperelastic materials.
@@ -134,6 +139,10 @@ and EUCLID can automatically discover the true hidden material model from a larg
 	__Automated discovery of interpretable hyperelastic material models for human brain tissue with EUCLID__  
 	[_arXiv preprint_](https://arxiv.org/abs/2305.16362)  
 
+14.	Huitian Yu, Moritz Flaschel and Laura De Lorenzis  
+	__Supplementary software for "Automated discovery of interpretable hyperelastic material models for human brain tissue with EUCLID"__  
+	_ETH Library_  
+	DOI: [https://doi.org/10.5905/ethz-1007-638](https://doi.org/10.5905/ethz-1007-638)  
 
 
 
