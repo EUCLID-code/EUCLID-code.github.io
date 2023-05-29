@@ -129,3 +129,14 @@ and EUCLID can automatically discover the true hidden material model from a larg
 12. Moritz Flaschel  
 	__Automated Discovery of Material Models in Continuum Solid Mechanics__  
 	Ph.D. thesis ([open access](https://doi.org/10.3929/ethz-b-000602750))  
+
+13. Moritz Flaschel, Huitian Yu, Nina Reiter, Jan Hinrichsen, Silvia Budday, Paul Steinmann, Siddhant Kumar and Laura De Lorenzis  
+	__Automated discovery of interpretable hyperelastic material models for human brain tissue with EUCLID__  
+	[_arXiv preprint_](https://arxiv.org/abs/2305.16362)  
+
+
+
+
+
+
+
