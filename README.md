@@ -137,7 +137,7 @@ and EUCLID can automatically discover the true hidden material model from a larg
 
 13. Moritz Flaschel, Huitian Yu, Nina Reiter, Jan Hinrichsen, Silvia Budday, Paul Steinmann, Siddhant Kumar and Laura De Lorenzis  
 	__Automated discovery of interpretable hyperelastic material models for human brain tissue with EUCLID__  
-	[_arXiv preprint_](https://arxiv.org/abs/2305.16362)  
+	_Journal of the Mechanics and Physics of Solids, 180, p.105404_ ([open access](10.1016/j.jmps.2023.105404))
 
 14.	Huitian Yu, Moritz Flaschel and Laura De Lorenzis  
 	__Supplementary software for "Automated discovery of interpretable hyperelastic material models for human brain tissue with EUCLID"__  
