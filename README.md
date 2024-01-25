@@ -99,7 +99,8 @@ and EUCLID can automatically discover the true hidden material model from a larg
 5.	Moritz Flaschel, Siddhant Kumar and Laura De Lorenzis  
 	__Supplementary software for "Discovering plasticity models without stress data"__  
 	_ETH Library_  
-	DOI: [http://doi.org/10.5905/ethz-1007-509](http://doi.org/10.5905/ethz-1007-509)  
+	DOI (version 1.0): [http://doi.org/10.5905/ethz-1007-509](http://doi.org/10.5905/ethz-1007-509)  
+	DOI (version 2.0): [http://doi.org/10.5905/ethz-1007-605](http://doi.org/10.5905/ethz-1007-605) (version 2.0 further includes the supplementary software for "Automated discovery of generalized standard material models with EUCLID")  
 	GitHub: [https://github.com/EUCLID-code/EUCLID-plasticity](https://github.com/EUCLID-code/EUCLID-plasticity)  
 
 6.	Moritz Flaschel, Siddhant Kumar and Laura De Lorenzis  
