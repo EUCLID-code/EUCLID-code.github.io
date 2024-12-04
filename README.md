@@ -75,6 +75,10 @@ and EUCLID can automatically discover the true hidden material model from a larg
 <a href="https://www.research-collection.ethz.ch/handle/20.500.11850/586072" target="_blank">data</a> (see Ref. 10.), and a
 <a href="https://EUCLID-code.github.io/EUCLID-plasticity/mkdocs/site" target="_blank">documentation</a> are publically available.
 
+### Neural networks
+In Ref. 15., we present a machine learning framework based on convex neural networks for learning the thermodynamic potentials of generalized standard materials.
+<a href="https://github.com/mflaschel/GSMN" target="_blank">Codes</a> (see Ref. 16.) are publically available.
+
 # References
 
 1.	Moritz Flaschel<span>&#42;</span>, Siddhant Kumar<span>&#42;</span> and Laura De Lorenzis (<span>&#42;</span>contributed equally)  
@@ -144,7 +148,15 @@ and EUCLID can automatically discover the true hidden material model from a larg
 	__Supplementary software for "Automated discovery of interpretable hyperelastic material models for human brain tissue with EUCLID"__  
 	_ETH Library_  
 	DOI: [https://doi.org/10.5905/ethz-1007-638](https://doi.org/10.5905/ethz-1007-638)  
+	
+15.	Moritz Flaschel, Paul Steinmann, Laura De Lorenzis and Ellen Kuhl  
+	__Convex Neural Networks Learn Generalized Standard Material Models__  
+	DOI: [http://dx.doi.org/10.2139/ssrn.5023581](http://dx.doi.org/10.2139/ssrn.5023581)  
 
+16.	Moritz Flaschel, Paul Steinmann, Laura De Lorenzis and Ellen Kuhl   
+	__Supplementary software for "Convex Neural Networks Learn Generalized Standard Material Models"__  
+	DOI: [http://doi.org/10.5281/zenodo.14055700](http://doi.org/10.5281/zenodo.14055700)  
+	GitHub: [https://github.com/mflaschel/GSMN](https://github.com/mflaschel/GSMN)  
 
 
 
