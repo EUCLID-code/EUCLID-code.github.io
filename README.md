@@ -159,6 +159,6 @@ In Ref. 15., we present a machine learning framework based on convex neural netw
 	GitHub: [https://github.com/mflaschel/GSMN](https://github.com/mflaschel/GSMN)  
 
 
-
-
-
+# Corrigendum
+- A corrigendum to Ref. 8. can be found on [https://github.com/EUCLID-code/EUCLID-hyperelasticity-bayesian/blob/main/bayesian-euclid-corrections.pdf](GitHub).  
+- In Ref. 13., equation (A.12) is erroneous. (\lambda_UT - 3)^m should be replaced by (\lambda_UT^2 + 2/\lambda_UT - 3)^m.  
