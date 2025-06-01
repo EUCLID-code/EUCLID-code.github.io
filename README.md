@@ -45,7 +45,10 @@ In Ref. 8, we demonstrate the use of neural networks for learning the hidden mat
 By using an Input Convex Neural Network (ICNN) and a physics guided training protocol, we ensure that the learned strain-stress relation fulfills multiple physical constraints. 
 Moreover, we present the capability of our ICNN-based material model to learn the hidden fiber angle arrangments of anisotropic hyperelastic materials.
 The codes and data are publically available on <a href="https://github.com/EUCLID-code/EUCLID-hyperelasticity-NN" target="_blank">GitHub</a> (see Ref. 8.).
-The documentation of the NN-EUCLID code and an example can be found <a href="https://EUCLID-code.github.io/EUCLID-hyperelasticity-NN/mkdocs/site" target="_blank">here</a>.
+The documentation of the NN-EUCLID code and an example can be found <a href="https://EUCLID-code.github.io/EUCLID-hyperelasticity-NN/mkdocs/site" target="_blank">here</a>.  
+
+In Ref. 17, we present the Input-Convex Kolmogorov-Arnold Networks (ICKANs) architecture for constitutive modeling of hyperelasticity within the NN-EUCLID framework. Compared to ICNNs and other black-box models, ICKANs offer improved interpretability in capturing constitutive behavior. Additionally, we employ a model distillation strategy that combines input-convex symbolic regression with the Kolmogorov-Arnold representation theorem, resulting in fully interpretable, analytical constitutive models.
+The codes and data are publically available on <a href="https://github.com/mmc-group/ICKANs" target="_blank">GitHub</a> (see Ref. 17).
 
 <img src="/img/neural_network.png" alt="Neural network" width="600"/>
 
@@ -158,7 +161,12 @@ In Ref. 15., we present a machine learning framework based on convex neural netw
 	DOI: [http://doi.org/10.5281/zenodo.14055700](http://doi.org/10.5281/zenodo.14055700)  
 	GitHub: [https://github.com/mflaschel/GSMN](https://github.com/mflaschel/GSMN)  
 
+17.  Prakash Thakolkaran<span>&#42;</span>, Yaqi Guo<span>&#42;</span>, Shivam Saini, Mathias Peirlinck, Benjamin Alheit and Siddhant Kumar (<span>&#42;</span>contributed equally)  
+      __Can KAN CANs? Input-convex Kolmogorov-Arnold Networks (KANs) as hyperelastic constitutive artificial neural networks (CANs)__  
+	_Computer Methods in Applied Mechanics and Engineering, 443, p.118089_ ([open access](https://doi.org/10.1016/j.cma.2025.118089))  
+	GitHub: [https://github.com/mmc-group/ICKANs](https://github.com/mmc-group/ICKANs)
 
 # Corrigendum
-- A corrigendum to Ref. 8. can be found on [GitHub](https://github.com/EUCLID-code/EUCLID-hyperelasticity-bayesian/blob/main/bayesian-euclid-corrections.pdf).  
+- A corrigendum to Ref. 7. can be found on [GitHub](https://github.com/EUCLID-code/EUCLID-hyperelasticity-bayesian/blob/main/bayesian-euclid-corrections.pdf).
+- A corrigendum to Ref. 8. can be found on [GitHub](https://github.com/EUCLID-code/EUCLID-hyperelasticity-NN/blob/main/nn-euclid-corrections.pdf).  
 - In Ref. 13., equation (A.12) is erroneous. (\lambda_UT - 3)^m should be replaced by (\lambda_UT^2 + 2/\lambda_UT - 3)^m.  
