@@ -64,7 +64,7 @@ In Ref. 4., EUCLID was for the first time applied to discover elasto-plastic mat
 Full-field displacement and global reaction force data are used to discover plastic yield surfaces and hardening laws as closed-form mathematical formulas (see Animation 1).
 The codes and data are publically available on <a href="https://github.com/EUCLID-code/EUCLID-plasticity" target="_blank">GitHub</a> (see Ref. 5.)
 and the <a href="https://www.research-collection.ethz.ch/handle/20.500.11850/534002" target="_blank">ETH Research Collection</a> (see Ref. 6.), respectively.
-The documentation of the elasto-plasticity code and an example can be found <a href="https://EUCLID-code.github.io/EUCLID-plasticity/mkdocs/site" target="_blank">here</a>.
+The documentation of the elasto-plasticity code and an example can be found <a href="https://EUCLID-code.github.io/EUCLID-plasticity/mkdocs/site" target="_blank">here</a>. An extention to non-associated pressure-sensitive plasticity is presented in Ref. 18.
 
 <img src="/img/yield_surface_evolution.gif" alt="Yield Surface Evolution" width="400"/>
 
@@ -165,6 +165,11 @@ In Ref. 15., we present a machine learning framework based on convex neural netw
       __Can KAN CANs? Input-convex Kolmogorov-Arnold Networks (KANs) as hyperelastic constitutive artificial neural networks (CANs)__  
 	_Computer Methods in Applied Mechanics and Engineering, 443, p.118089_ ([open access](https://doi.org/10.1016/j.cma.2025.118089))  
 	GitHub: [https://github.com/mmc-group/ICKANs](https://github.com/mmc-group/ICKANs)
+
+18.	Haotian Xu, Moritz Flaschel and Laura De Lorenzis  
+	__Discovering non-associated pressure-sensitive plasticity models with EUCLID__  
+	_Advanced Modeling and Simulation in Engineering Sciences, 12, 1 (2022)_ ([open access](https://amses-journal.springeropen.com/articles/10.1186/s40323-024-00281-3))  
+
 
 # Corrigendum
 - A corrigendum to Ref. 7. can be found on [GitHub](https://github.com/EUCLID-code/EUCLID-hyperelasticity-bayesian/blob/main/bayesian-euclid-corrections.pdf).
