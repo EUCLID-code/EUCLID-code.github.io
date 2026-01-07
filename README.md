@@ -169,7 +169,7 @@ In Ref. 15., we present a machine learning framework based on convex neural netw
 18.	Haotian Xu, Moritz Flaschel and Laura De Lorenzis  
 	__Discovering non-associated pressure-sensitive plasticity models with EUCLID__  
 	_Advanced Modeling and Simulation in Engineering Sciences, 12, 1_ ([open access](https://doi.org/10.1186/s40323-024-00281-3))  
-	GitHub: [https://https://github.com/EUCLID-code/EUCLID-plasticity-pressure-sensitive-non-associated](https://https://github.com/EUCLID-code/EUCLID-plasticity-pressure-sensitive-non-associated)
+	GitHub: [https://https://github.com/EUCLID-code/EUCLID-plasticity-pressure-sensitive-non-associated](https:///github.com/EUCLID-code/EUCLID-plasticity-pressure-sensitive-non-associated)
 
 
 # Corrigendum
